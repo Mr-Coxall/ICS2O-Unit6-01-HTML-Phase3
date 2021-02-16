@@ -9,4 +9,4 @@ const config = {
     autoCenter: Phaser.Scale.CENTER_BOTH
   }
 }
-let game = new Phaser.Game(config)
+const game = new Phaser.Game(config)
