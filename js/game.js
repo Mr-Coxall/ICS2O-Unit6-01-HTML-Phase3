@@ -1,5 +1,5 @@
 //* Game scene */
-var config = {
+let config = {
   type: Phaser.AUTO,
   width: 1920,
   height: 1080,
@@ -9,4 +9,4 @@ var config = {
     autoCenter: Phaser.Scale.CENTER_BOTH
   },
 };
-var game = new Phaser.Game(config);
+let game = new Phaser.Game(config);
