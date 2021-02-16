@@ -1,3 +1,4 @@
+/* global Phaser */
 //* Game scene */
 const config = {
   type: Phaser.AUTO,
